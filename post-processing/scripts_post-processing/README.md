@@ -1,0 +1,3 @@
+# Scripts information
+- `post_processing_simalign.py` constitutes the original post-processing script that can be configured in the calling script (example: `example_execution/execute_post-processing_simalign.py`)
+- `post-processing_simalign_segment_extraction.py` constitutes the original post-processing script with additional extraction of paired parallel segments (regardless of whether the candidate pair is kept)
