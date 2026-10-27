@@ -1,5 +1,6 @@
 # SNAPP
 This repository contains the code for the article with the title "SNAPP: Segment-Level Neural Alignment Post-Processing for Low-Resource Parallel Sentence Mining".
+The article can be found [here](https://aclanthology.org/2026.wmt-main.14/).
 
 
 
